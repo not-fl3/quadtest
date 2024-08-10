@@ -10,5 +10,5 @@ macroquad = "*"
 miniquad = "*"
 
 #[patch.crates-io]
-#macroquad = { path = '../macroquad' }
+#macroquad = { path = '../macroquad_0.4' }
 #miniquad = { path = '../miniquad' }
